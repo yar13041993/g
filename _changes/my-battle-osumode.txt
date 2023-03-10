@@ -1,0 +1,7 @@
+mods/data/my-battle/my-battle-easy.json
+mods/data/my-battle/my-battle-hard.json
+mods/data/my-battle/my-battle.json
+mods/songs/my-battle/Voices.ogg
+mods/songs/my-battle/voices.ogg
+mods/songs/my-battle/Inst.ogg
+mods/songs/my-battle/inst.ogg

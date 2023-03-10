@@ -1,0 +1,7 @@
+mods/data/last-chance/last-chance-easy.json
+mods/data/last-chance/last-chance-hard.json
+mods/data/last-chance/last-chance.json
+mods/songs/last-chance/Voices.ogg
+mods/songs/last-chance/voices.ogg
+mods/songs/last-chance/Inst.ogg
+mods/songs/last-chance/inst.ogg
