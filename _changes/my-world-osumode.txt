@@ -1,0 +1,7 @@
+mods/data/my-world/my-world-easy.json
+mods/data/my-world/my-world-hard.json
+mods/data/my-world/my-world.json
+mods/songs/my-world/Voices.ogg
+mods/songs/my-world/voices.ogg
+mods/songs/my-world/Inst.ogg
+mods/songs/my-world/inst.ogg

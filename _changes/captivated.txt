@@ -1,0 +1,8 @@
+mods/data/captivated/captivated-easy.json
+mods/data/captivated/captivated-hard.json
+mods/data/captivated/captivated.json
+mods/data/captivated/events.json
+mods/songs/captivated/Voices.ogg
+mods/songs/captivated/voices.ogg
+mods/songs/captivated/Inst.ogg
+mods/songs/captivated/inst.ogg

@@ -1,0 +1,5 @@
+mods/data/mayhem/mayhem-hard.json
+mods/songs/mayhem/Voices.ogg
+mods/songs/mayhem/voices.ogg
+mods/songs/mayhem/Inst.ogg
+mods/songs/mayhem/inst.ogg
