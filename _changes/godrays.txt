@@ -1,0 +1,7 @@
+mods/data/godrays/godrays-easy.json
+mods/data/godrays/godrays-hard.json
+mods/data/godrays/godrays.json
+mods/songs/godrays/Voices.ogg
+mods/songs/godrays/voices.ogg
+mods/songs/godrays/Inst.ogg
+mods/songs/godrays/inst.ogg
