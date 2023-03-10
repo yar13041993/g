@@ -1,4 +1,7 @@
+mods/data/ballistic/ballistic-easy.json
+mods/data/ballistic/ballistic-hard.json
 mods/data/ballistic/ballistic-lb.json
+mods/data/ballistic/ballistic.json
 mods/songs/ballistic/Voices.ogg
 mods/songs/ballistic/voices.ogg
 mods/songs/ballistic/Inst.ogg

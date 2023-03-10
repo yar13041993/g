@@ -1,4 +1,7 @@
+mods/data/overhead/overhead-easy.json
+mods/data/overhead/overhead-hard.json
 mods/data/overhead/overhead-lb.json
+mods/data/overhead/overhead.json
 mods/songs/overhead/Voices.ogg
 mods/songs/overhead/voices.ogg
 mods/songs/overhead/Inst.ogg
