@@ -1,0 +1,7 @@
+mods/data/think/think-easy.json
+mods/data/think/think-hard.json
+mods/data/think/think.json
+mods/songs/think/Voices.ogg
+mods/songs/think/voices.ogg
+mods/songs/think/Inst.ogg
+mods/songs/think/inst.ogg

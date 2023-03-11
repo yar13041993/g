@@ -1,0 +1,5 @@
+mods/data/thonk/thonk.json
+mods/songs/thonk/Voices.ogg
+mods/songs/thonk/voices.ogg
+mods/songs/thonk/Inst.ogg
+mods/songs/thonk/inst.ogg

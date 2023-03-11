@@ -1,0 +1,5 @@
+mods/data/scary-night/scary-night.json
+mods/songs/scary-night/Voices.ogg
+mods/songs/scary-night/voices.ogg
+mods/songs/scary-night/Inst.ogg
+mods/songs/scary-night/inst.ogg

@@ -1,0 +1,5 @@
+mods/data/gift/gift.json
+mods/songs/gift/Voices.ogg
+mods/songs/gift/voices.ogg
+mods/songs/gift/Inst.ogg
+mods/songs/gift/inst.ogg

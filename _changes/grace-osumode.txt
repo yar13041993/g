@@ -1,0 +1,5 @@
+mods/data/grace/grace.json
+mods/songs/grace/Voices.ogg
+mods/songs/grace/voices.ogg
+mods/songs/grace/Inst.ogg
+mods/songs/grace/inst.ogg
